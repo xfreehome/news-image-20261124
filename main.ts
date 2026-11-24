@@ -1,4 +1,5 @@
 // World in One Frame — news-image-20261124 entry (Node 22, standard library only).
+// Rebuilt in the parent session, 24 Nov 2026 — same deterministic build.
 // Reads entry.png from beside this file, verifies it is a PNG of at most
 // 1024x1024 px and at most 1 MiB, copies it byte-for-byte to /output/entry.png
 // (or $MAKEFUN_OUTPUT_DIR), then reads the output back and checks the SHA-256
